@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/srinath-16/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srinath-16/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/srinath-16/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/srinath-16/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/srinath-16/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinath-16/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/srinath-16/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/srinath-16/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/srinath-16/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/srinath-16/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/srinath-16/leetcode/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/srinath-16/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
